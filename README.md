@@ -80,11 +80,10 @@ python main.py
 ---
 
 ## 📧 Contact
-📩 **Author:** Nishat Jillani  
-📞 **Phone:** (+49) 017645964826  
-📧 **Email:** nishatjillani631@gmail.com  
-🌐 **LinkedIn:** [Nishat Jillani](https://www.linkedin.com/in/nishat-jillani-63b7b7211/)  
-🏠 **Location:** Universitätsstr. 11/310-1, 03046 Cottbus, Germany  
+📩 **Author:** Muhammad Azam Ramzan  
+📞 **Phone:** (+49) 17614658227  
+📧 **Email:** chaduryazam95@gmail.com  
+🌐 **LinkedIn:** [Muhammad Azam Ramzan](https://www.linkedin.com/in/muh-azam)  
 
 > "Predicting the future is impossible, but making informed decisions is an art."
 
